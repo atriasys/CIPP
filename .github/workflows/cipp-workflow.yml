@@ -46,3 +46,4 @@ jobs:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_AGREEABLE_ISLAND_0F2BE540F }} # change this to your repository secret name
           action: "close"
 #updating this file
+#another update
